@@ -1,0 +1,5 @@
+{
+  "name": "Project Dashboard AI",
+  "description": "An intelligent dashboard that analyzes daily project review documents using Gemini, providing summaries, key metrics, and actionable tasks in a visual format.",
+  "requestFramePermissions": []
+}
